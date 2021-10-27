@@ -10,10 +10,10 @@ function result() {
 			english:"100",
 			hindi:"100"
 		},
-		PRIYASHREE :{
-			kannada:"000",
-			english:"000",
-			hindi:"000"
+		XYZ :{
+			kannada:"90",
+			english:"80",
+			hindi:"95"
 		},
 		KRISHNA :{
 			kannada:"95",
