@@ -10,7 +10,7 @@ function result() {
 			english:"100",
 			hindi:"100"
 		},
-		PRIYA :{
+		XYZ :{
 			kannada:"000",
 			english:"000",
 			hindi:"000"
