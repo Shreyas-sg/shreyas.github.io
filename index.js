@@ -10,6 +10,11 @@ function result() {
 			english:"100",
 			hindi:"100"
 		},
+		XYZ :{
+			kannada:"100",
+			english:"100",
+			hindi:"100"
+		},
 		KRISHNA :{
 			kannada:"95",
 			english:"80",
